@@ -1,4 +1,4 @@
-# Code-in-your-plate
+# Code in your plate
 
 I had a lot of fun with the "Code in your plate". Creating web pages has always been something that I have been interested in and during this project I was able to revisit CSS and touch up on my skills. 
 
